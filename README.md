@@ -22,3 +22,4 @@
     HSSPF - Высший Руководитель СС и Полиции Higher SS and Police Leader (Höherer SS- und Polizeiführer, )
     HöSSPF - Верховный руководитель СС и Полиции Supreme SS and Police Leader (Höchster SS- und Polizeiführer, )
     SD - служба безопасности
+    Первый лейтенант -> Старший лейтенант
