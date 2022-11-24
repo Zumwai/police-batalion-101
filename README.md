@@ -1,20 +1,12 @@
 
-ПДФ - готово
-ЕПАБ - почти готово
-ФБ2- не работает
-Одна версия под А4, вторая под B5 исо
-ctrl + enter for page break for conversion in epub
-ендноты так и не хотят в епабе на отдельную страницу переходить
-formatting marks
-Possible Fonts^
-URW Bookman
-Noto Serif
-C059 - основа
-DejaVu Serif Condensed - цитаты
-
-Nimbus Roman Narrow for endnotes?
-Nimbus Mono PS
-Symbola?
-
-URW Bookman - таблицы
-Nimbus Roman - сноски
+ЕПАБ - кодировка ломается
+ПДФ - Одна версия под А4, вторая под B5 исо
+Рядом с нумерацией название главы
+Внести правки, прочесть ещё раз
+тессин
+первый сержант - старший сержант
+Комаровка - Комарувка
+Серокомла - Серокомля 
+Menschenschreck - перевод
+... - " ... "
+Сделать сноску об "action" (The word "action" was a euphemism employed by the Germans to describe mass shootings and later this was picked up by the ghetto inmates themselves.)
