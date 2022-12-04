@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">cc45123c-ffb1-4cd7-adf5-3ce2b344f104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc45123c-ffb1-4cd7-adf5-3ce2b344f104</dc:identifier>
+        <dc:title>Обыкновенные Люди: Полицейский Резервный Батальон 101</dc:title>
+        <dc:creator opf:file-as="Браунинг, Кристофер Р." opf:role="aut">Кристофер Р. Браунинг</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Пиратское Подполье</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Вторая Мировая</dc:subject>
+        <dc:subject>Евреи</dc:subject>
+        <dc:subject>Нацизм</dc:subject>
+        <dc:subject>Оккупация Польши</dc:subject>
+        <dc:subject>Переселение</dc:subject>
+        <dc:subject>Призывники из запаса</dc:subject>
+        <dc:subject>Холокост</dc:subject>
+        <dc:subject>Мобилизация</dc:subject>
+        <dc:subject>Геноцид</dc:subject>
+        <dc:subject>Исследование Холокоста.</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
