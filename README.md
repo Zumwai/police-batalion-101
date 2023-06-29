@@ -7,3 +7,7 @@
 Федеральная Республика Германия -> Федеративная Республика Германия.
 <br></br>
 Тридцать три года, полицейский с карьерными амбициями. - > Пятьдесят три года, полицейский с карьерными амбициями
+
+Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland.
+by Christopher R. Browning
+Перевод на русский. Russian translation.
